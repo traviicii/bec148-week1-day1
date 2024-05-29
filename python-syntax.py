@@ -1,3 +1,5 @@
+## week 1 Day 1 Lecture
+
 ## first data type --> Strings
 
 # this is a variable with a string stored in it
