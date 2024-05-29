@@ -1,4 +1,4 @@
-## week 1 Day 1 Lecture
+## Week 1 Day 1 Lecture
 
 ## first data type --> Strings
 
